@@ -1,0 +1,6 @@
+[project]
+name = "ft-steal"
+requirements = []
+[contracts.token]
+path = "contracts/token.clar"
+depends_on = []
